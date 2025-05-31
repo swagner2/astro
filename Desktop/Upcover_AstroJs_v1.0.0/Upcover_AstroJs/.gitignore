@@ -19,6 +19,25 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Design files
+*.psd
+*.ai
+*.sketch
+*.fig
 
 # jetbrains setting folder
 .idea/
+
+# VS Code
+.vscode/
+*.code-workspace
